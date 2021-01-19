@@ -12,6 +12,4 @@ Example Input: `<10, 20, 1, 1>` which translates to:
 - Move FORWARD
 - in SINGLE steps
 
-NB: This script is based on the excellent post by *Robin2*: https://forum.arduino.cc/index.php?topic=396450.0. The post explains the difficulties when transfering data to the Arduino and how to address them. The script is based on Example 5, and adjusted to work stepper motors.
-
-
+NB: This script is based on the excellent post by *Robin2*: https://forum.arduino.cc/index.php?topic=396450.0. The post explains the difficulties when transfering data to the Arduino and how to address them. The script is based on Example 5. I adjusted this script to work with the above stepper motor parameters.
