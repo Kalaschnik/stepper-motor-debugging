@@ -108,6 +108,9 @@ void parseData() {      // split the data into its parts
   // EXECUTE PARSED DATA
   myMotor->setSpeed(motorSpeed);
   myMotor->step(motorSteps, motorDir, motorStyle);
+
+  // EXECUTE SHAKING (FORWARD/BACKWORD)
+  
 }
 
 //============
